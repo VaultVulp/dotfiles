@@ -25,7 +25,7 @@ ALLOW_SPLIT_BEFORE_DICT_VALUE = False
 
 ## [isort](https://github.com/timothycrosley/isort)
 
-Config file may be stored at the home directory: `~/.isort`
+Config file may be stored at the home directory: `~/.isort.cfg`
 
 ```ini
 [settings]
